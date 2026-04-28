@@ -1,14 +1,8 @@
 [
   {
-    "name": "NBA TV (24/7)",
-    "url": "https://vidsrc.me/embed/nba",
-    "type": "embed",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/48/NBA_TV_logo.svg"
-  },
-  {
-    "name": "NBA LIVE SERVER 1",
-    "url": "https://titanshowcase.com/embed/nba",
-    "type": "embed",
-    "logo": "https://www.nba.com/assets/logos/teams/primary/web/LAL.svg"
+    "name": "BT SPORT (NBA)",
+    "url": "https://balkisusuleimanfema.s3.us-west-2.amazonaws.com/btsport_480p30.m3u8",
+    "type": "hls",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/b8/BT_Sport_logo_2019.svg"
   }
 ]
