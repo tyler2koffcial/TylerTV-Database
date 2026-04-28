@@ -1,15 +1,80 @@
 [
   {
-    "name": "NBA TV LIVE (Server 1)",
-    "url": "https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/c2a00a1c-e4b8-466b-98fb-0b4b63d3193b/2.m3u8",
+    "name": "GMA 7",
+    "url": "http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8",
     "type": "hls",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg",
-    "note": "Source from Cloudfront/FreeInterTV"
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/GMA_Network_logo.svg"
   },
   {
-    "name": "NBA TV LIVE (Backup)",
-    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "name": "KAPAMILYA CHANNEL",
+    "url": "http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8",
     "type": "hls",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Kapamilya_Channel_Logo.svg/1200px-Kapamilya_Channel_Logo.svg.png"
+  },
+  {
+    "name": "KAPATID (TV5)",
+    "url": "http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/102.m3u8",
+    "type": "hls",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/TV5_logo.svg"
+  },
+  {
+    "name": "CINEMO",
+    "url": "http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/127.m3u8",
+    "type": "hls",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/bd/CineMo%21_logo.png"
+  },
+  {
+    "name": "ANIMAX",
+    "url": "http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8",
+    "type": "hls",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/07/Animax_logo.svg"
+  },
+  {
+    "name": "JEEPNEY TV",
+    "url": "http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/106.m3u8",
+    "type": "hls",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/b/b3/Jeepney_TV_logo.png"
+  },
+  {
+    "name": "CINEMA 1",
+    "url": "http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/109.m3u8",
+    "type": "hls",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/a/ad/Cinema_One_Logo.png"
+  },
+  {
+    "name": "PBO",
+    "url": "http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8",
+    "type": "hls",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/e/e0/PBO_Logo.png"
+  },
+  {
+    "name": "CINEMAX",
+    "url": "http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/111.m3u8",
+    "type": "hls",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Cinemax_logo.svg"
+  },
+  {
+    "name": "FOX MOVIES",
+    "url": "http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/112.m3u8",
+    "type": "hls",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Fox_Movies_logo.svg"
+  },
+  {
+    "name": "HBO",
+    "url": "http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8",
+    "type": "hls",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg"
+  },
+  {
+    "name": "WARNER BROS TV",
+    "url": "http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/132.m3u8",
+    "type": "hls",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Warner_Bros_logo.svg"
+  },
+  {
+    "name": "DISNEY CHANNEL",
+    "url": "http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/126.m3u8",
+    "type": "hls",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney_Channel_logo.svg"
   }
 ]
