@@ -1,7 +1,7 @@
 [
   {
     "name": "NBA TV (1080p)",
-    "url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
+    "url": "https://romoramad.s3.us-east-1.amazonaws.com/btsport.m3u8",
     "type": "hls",
     "group": "Sports",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png"
