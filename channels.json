@@ -1,8 +1,15 @@
 [
   {
-    "name": "BT SPORT (NBA)",
-    "url": "https://balkisusuleimanfema.s3.us-west-2.amazonaws.com/btsport_480p30.m3u8",
+    "name": "NBA TV LIVE (Server 1)",
+    "url": "https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/c2a00a1c-e4b8-466b-98fb-0b4b63d3193b/2.m3u8",
     "type": "hls",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/b/b8/BT_Sport_logo_2019.svg"
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg",
+    "note": "Source from Cloudfront/FreeInterTV"
+  },
+  {
+    "name": "NBA TV LIVE (Backup)",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "type": "hls",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/0/03/National_Basketball_Association_logo.svg"
   }
 ]
