@@ -1,7 +1,37 @@
-{
-  "name": "Live Channel (1080p)",
-  "url": "http://user.scalecdn.co:8080/live/pamela12/pamela12/567748.m3u8",
-  "type": "hls",
-  "group": "Live TV",
-  "logo": "https://i.imgur.com/your-logo.png"
-}
+[
+  {
+    "name": "NBA TV (1080p)",
+    "url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
+    "type": "hls",
+    "group": "Sports",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png"
+  },
+  {
+    "name": "CineMo (1080p)",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd",
+    "type": "dash",
+    "group": "Movies",
+    "logo": "https://i.imgur.com/rGAOD3f.png"
+  },
+  {
+    "name": "GMA NEWS TV",
+    "url": "https://p-cdn1-origin.pldt-livestream.com/GMANewsTV/index.m3u8",
+    "type": "hls",
+    "group": "News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/GMA_Network_logo.svg"
+  },
+  {
+    "name": "TV5 PH",
+    "url": "https://p-cdn1-origin.pldt-livestream.com/TV5/index.m3u8",
+    "type": "hls",
+    "group": "PH Channels",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/TV5_logo.svg"
+  },
+  {
+    "name": "PTV 4 (Official)",
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ph/ptv.m3u8",
+    "type": "hls",
+    "group": "PH Channels",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/25/People%27s_Television_Network_logo.svg"
+  }
+]
