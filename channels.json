@@ -1,114 +1,65 @@
 [
   {
-    "name": "UNTV",
-    "url": "https://ythls.onrender.com/channel/UC3XaG-7UVi2vD8ZZEMNnnpw.m3u8",
+    "name": "Abante TV",
+    "url": "https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8",
     "type": "hls",
     "group": "Filipino",
     "logo": "https://i.imgur.com/6xOjF7u.png"
   },
   {
-    "name": "PTV 4",
-    "url": "https://ythls.onrender.com/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8",
-    "type": "hls",
-    "group": "Filipino",
-    "logo": "https://i.imgur.com/cBqnYNM.png"
+    "name": "ANC News",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd",
+    "type": "dash",
+    "group": "News",
+    "logo": "https://i.imgur.com/rGAOD3f.png"
   },
   {
-    "name": "TV5 PH",
-    "url": "https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/tv5.m3u8",
+    "name": "Ani-Blast",
+    "url": "https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8",
     "type": "hls",
-    "group": "Filipino",
-    "logo": "https://i.imgur.com/hM5MFrz.png"
+    "group": "Anime",
+    "logo": "https://i.imgur.com/rGAOD3f.png"
   },
   {
-    "name": "One Sports",
-    "url": "https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/os.m3u8",
+    "name": "Cinema One",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd",
+    "type": "dash",
+    "group": "Movies",
+    "logo": "https://i.imgur.com/rGAOD3f.png"
+  },
+  {
+    "name": "CineMo",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd",
+    "type": "dash",
+    "group": "Movies",
+    "logo": "https://i.imgur.com/rGAOD3f.png"
+  },
+  {
+    "name": "Premier Sports 1",
+    "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8",
     "type": "hls",
     "group": "Sports",
     "logo": "https://i.imgur.com/FJfuQDi.png"
   },
   {
-    "name": "Knowledge Channel",
-    "url": "https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/kch.m3u8",
-    "type": "hls",
-    "group": "Filipino",
-    "logo": "https://i.imgur.com/9ROZkXn.png"
-  },
-  {
-    "name": "Kapamilya Channel",
-    "url": "https://raw.githubusercontent.com/fotvnetwork/iptv-free/master/M3U8/Locals/kapcha.m3u8",
-    "type": "hls",
-    "group": "Filipino",
-    "logo": "https://i.imgur.com/7btCRNw.png"
-  },
-  {
-    "name": "NBA TV (1080p)",
-    "url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
+    "name": "Premier Sports 2",
+    "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8",
     "type": "hls",
     "group": "Sports",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png"
+    "logo": "https://i.imgur.com/FJfuQDi.png"
   },
   {
-    "name": "BeIN Sports Xtra",
-    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web",
-    "type": "hls",
-    "group": "Sports",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1d/BeIN_Sports_logo.svg"
-  },
-  {
-    "name": "Nick Pluto TV",
-    "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?appName=web",
-    "type": "hls",
-    "group": "Kids",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Nickelodeon_2009_logo.svg"
-  },
-  {
-    "name": "Dora TV",
-    "url": "https://siloh.pluto.tv/lilo/production/Nick/03/master.m3u8",
-    "type": "hls",
-    "group": "Kids",
+    "name": "TeleRadyo",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd",
+    "type": "dash",
+    "group": "News",
     "logo": "https://i.imgur.com/rGAOD3f.png"
   },
   {
-    "name": "BabyShark TV",
-    "url": "https://b804413309624ef1b04591c47e82e14c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_BabySharkTV/playlist.m3u8",
-    "type": "hls",
-    "group": "Kids",
-    "logo": "https://i.imgur.com/rGAOD3f.png"
-  },
-  {
-    "name": "CNN International",
-    "url": "https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
-    "type": "hls",
-    "group": "News",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg"
-  },
-  {
-    "name": "ABC News Live",
-    "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-    "type": "hls",
-    "group": "News",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bc/ABC_News_Live_logo.svg"
-  },
-  {
-    "name": "NHK World Japan",
-    "url": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8",
-    "type": "hls",
-    "group": "News",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/69/NHK_World_logo.svg"
-  },
-  {
-    "name": "INC TV",
-    "url": "https://cocphil.akamaized.net/hls/live/2042846/inctv/playlist.m3u8",
+    "name": "Hope Channel",
+    "url": "https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8",
     "type": "hls",
     "group": "Religious",
     "logo": "https://i.imgur.com/s8rpeKu.png"
-  },
-  {
-    "name": "SMNI News",
-    "url": "http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8",
-    "type": "hls",
-    "group": "Religious",
-    "logo": "https://i.imgur.com/kTLLxuV.png"
   }
 ]
