@@ -1,5 +1,33 @@
 [
   {
+    "name": "NBA TV (1080p)",
+    "url": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8",
+    "type": "hls",
+    "group": "Sports",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png"
+  },
+  {
+    "name": "CineMo (1080p)",
+    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd",
+    "type": "dash",
+    "group": "Movies",
+    "logo": "https://i.imgur.com/rGAOD3f.png"
+  },
+  {
+    "name": "Cinema One (Sample)",
+    "url": "https://iptv-org.github.io/iptv/categories/movies.m3u",
+    "type": "hls",
+    "group": "Movies",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cinema_One_logo.svg/1200px-Cinema_One_logo.svg.png"
+  },
+  {
+    "name": "GMA NEWS TV",
+    "url": "https://p-cdn1-origin.pldt-livestream.com/GMANewsTV/index.m3u8",
+    "type": "hls",
+    "group": "News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/GMA_Network_logo.svg"
+  },
+  {
     "name": "TV5 PH",
     "url": "https://p-cdn1-origin.pldt-livestream.com/TV5/index.m3u8",
     "type": "hls",
@@ -7,14 +35,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/TV5_logo.svg"
   },
   {
-    "name": "GMA NEWS TV",
-    "url": "https://p-cdn1-origin.pldt-livestream.com/GMANewsTV/index.m3u8",
-    "type": "hls",
-    "group": "PH Channels",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/GMA_Network_logo.svg"
-  },
-  {
-    "name": "PTV 4",
+    "name": "PTV 4 (Official)",
     "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ph/ptv.m3u8",
     "type": "hls",
     "group": "PH Channels",
