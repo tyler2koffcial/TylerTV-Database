@@ -1,37 +1,23 @@
 [
   {
-    "name": "NBA TV (1080p)",
-    "url": "https://romoramad.s3.us-east-1.amazonaws.com/btsport.m3u8",
+    "name": "TV5 PH",
+    "url": "https://p-cdn1-origin.pldt-livestream.com/TV5/index.m3u8",
     "type": "hls",
-    "group": "Sports",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png"
+    "group": "PH Channels",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/TV5_logo.svg"
   },
   {
-    "name": "CineMo (1080p)",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/index.mpd",
-    "type": "dash",
-    "group": "Movies",
-    "logo": "https://i.imgur.com/rGAOD3f.png"
-  },
-  {
-    "name": "GMA NEWS TV (Stable)",
+    "name": "GMA NEWS TV",
     "url": "https://p-cdn1-origin.pldt-livestream.com/GMANewsTV/index.m3u8",
     "type": "hls",
-    "group": "News",
+    "group": "PH Channels",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/GMA_Network_logo.svg"
   },
   {
-    "name": "KAPAMILYA CHANNEL",
-    "url": "https://linear-abscbn-ph.akamaized.net/v1/manifest/be1d960f58444a9990e81f5e6d78606c/abs-cbn-ph/index.m3u8",
+    "name": "PTV 4",
+    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ph/ptv.m3u8",
     "type": "hls",
-    "group": "Entertainment",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Kapamilya_Channel_Logo.svg/1200px-Kapamilya_Channel_Logo.svg.png"
-  },
-  {
-    "name": "DEPT. OF EDUCATION (DepEd TV)",
-    "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ph/depedtv.m3u8",
-    "type": "hls",
-    "group": "Education",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Department_of_Education_Philippines.svg/1200px-Department_of_Education_Philippines.svg.png"
+    "group": "PH Channels",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/25/People%27s_Television_Network_logo.svg"
   }
 ]
