@@ -1,22 +1,12 @@
-[
-    {
-        "id": "jeepney-tv",
-        "name": "Jeepney Tv",
-        "group": "CIGNAL",
-        "logo": "https://i.imgur.com/d7VflLp.jpeg",
-        "url": "https://dash.akamaized.net/akamai/test/isptest/isptest.mpd](https://dash.akamaized.net/akamai/test/isptest/isptest.mpd",
-    {
-        "id": "tv5",
-        "name": "TV5",
-        "group": "CIGNAL",
-        "logo": "https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126",
-        "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd",
-        "drm": {
-            "clearkey": {
-                "keys": {
-                    "2615129ef2c846a9bbd43a641c7303ef": "07c7f996b1734ea288641a68e1cfdc4d"
-                }
-            }
-        }
+{
+  "name": "NBA TV Philippines",
+  "logo": "https://i.imgur.com/x1ZG71v.png",
+  "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd",
+  "drm": {
+    "clearkey": {
+      "keys": {
+        "d1f8a0c97b3d4e529a6f2c4b8d7e1f90": "58ab331d14b66bf31aca4284e0a3e536"
+      }
     }
-]
+  }
+}
