@@ -4,15 +4,7 @@
         "name": "Jeepney Tv",
         "group": "CIGNAL",
         "logo": "https://i.imgur.com/d7VflLp.jpeg",
-        "url": "https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd",
-        "drm": {
-            "clearkey": {
-                "keys": {
-                    "dc9fec234a5841bb8d06e92042c741ec": "225676f32612dc803cb4d0f950d063d0"
-                }
-            }
-        }
-    },
+        "url": "https://dash.akamaized.net/akamai/test/isptest/isptest.mpd](https://dash.akamaized.net/akamai/test/isptest/isptest.mpd",
     {
         "id": "tv5",
         "name": "TV5",
